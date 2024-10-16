@@ -1,1 +1,1 @@
-# applied-ml
+This repo contains projects completed as part of the Applied Machine Learning Certificate at NUS. Projects include a Supermarket Sales Prediction model to forecast product sales at different outlets, helping management understand key sales drivers. Additionally, a Machine Learning Model Exploration project implements decision trees, support vector machines, ensemble methods, and neural networks. Finally, a Machine Learning Pipeline Development project focuses on building efficient pipelines for data processing, model training, and evaluation.
